@@ -16,7 +16,7 @@ Um relatório prático desenvolvido em **ABAP** para analisar a taxa de ocupaç�
 
 ## 📸 Demonstração
 <!-- Adicione um print do seu ALV na pasta assets e descomente a linha abaixo -->
-<!-- ![Print do ALV](assets/alv-print.png) -->
+[Print do ALV](assets/alv-print.png)
 
 ## 📂 Estrutura de Arquivos
 - `/src/ZADTESTES2.abap`: Código-fonte principal contendo a tela de seleção e as lógicas do SALV.
