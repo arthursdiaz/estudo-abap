@@ -25,4 +25,4 @@ Um relatório prático desenvolvido em **ABAP** para analisar a taxa de ocupaç�
 1. Crie um programa executável (Report) via transação `SE38` ou `SE80` no seu ambiente SAP.
 2. Copie o código contido no diretório `src`.
 3. Ative o programa (Ctrl + F3) e execute (F8).
-4. Informe os parâmetros na tela de seleção e aproveite!
+4. Informe os parâmetros na tela de seleção.
